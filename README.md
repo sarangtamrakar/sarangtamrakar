@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sarangtamrakar
 - 👀 I’m interested in Data Science & AI
-- 🌱 I’m currently working on iNeuron as Intern in Health Care Domain.
+- 🌱 I’m currently working as Data Science Programmer in Flutura Decision Science & Analytics.
 - 💞️ I’m looking for new opportunity to present myself better & solve real world problems.
 - 📫 How to reach me -
 - [Email] :- sarang.tamrakarsgi15@gmail.com [LinkedIn]:- https://www.linkedin.com/in/sarang-tamrakar-1649a21a9/
