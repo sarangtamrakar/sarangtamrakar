@@ -12,6 +12,10 @@
 <img align="left" alt="NextJS" width="100px" src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs" />
 <img align="left" alt="NextJS" width="100px" src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/83/e258e0532611e5a5072321239ff4d4/jhep-coursera-course4.png?auto=format%2Ccompress&dpr=1" />
 
+<img align="left" alt="Redux" width="100px" src="https://d4jyn86spyrm8.cloudfront.net/redux.png" />
+
+<img align="left" alt="Next Auth" width="100px" src="https://res.cloudinary.com/practicaldev/image/fetch/s--TpDTGYw5--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/yuxiptjqj8pa4bvyffym.png" />
+
 
 
 
