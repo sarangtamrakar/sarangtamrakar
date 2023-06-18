@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sarangtamrakar
-- 👀 I’m interested in Data Science & AI
+- 👀 I’m interested in FrontEnd Development,  Data Science & AI
 - 🌱 I’m currently working as Data Science Programmer in Flutura Decision Science & Analytics.
 - 💞️ I’m looking for new opportunity to present myself better & solve real world problems.
 - 📫 How to reach me -
@@ -18,6 +18,9 @@
 <img align="left" alt="Jupyter" width="40px" src="https://avatars1.githubusercontent.com/u/25869250?s=200&v=4" />
 <img align="left" alt="SQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="GitHub" width="28px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+
+<img align="left" alt="GitHub" width="28px" src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs" />
+
 
 <br />
 <br />
