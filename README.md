@@ -6,11 +6,11 @@
 - [Email] :- sarang.tamrakarsgi15@gmail.com [LinkedIn]:- https://www.linkedin.com/in/sarang-tamrakar-1649a21a9/
 
 ## Languages, Libraries and Frameworks used :
-<img align="left" alt="Python3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-<img align="left" alt="Fast API" width="60px" src="https://i.imgur.com/p0Nufjn.jpg" />
-<img align="left" alt="ReactJS" width="60px" src="https://www.mobinius.com/wp-content/uploads/2020/02/reactjs-2.png" />
-<img align="left" alt="NextJS" width="50px" src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs" />
-<img align="left" alt="NextJS" width="50px" src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/83/e258e0532611e5a5072321239ff4d4/jhep-coursera-course4.png?auto=format%2Ccompress&dpr=1" />
+<img align="left" alt="Python3" width="100px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+<img align="left" alt="Fast API" width="100px" src="https://i.imgur.com/p0Nufjn.jpg" />
+<img align="left" alt="ReactJS" width="100px" src="https://www.mobinius.com/wp-content/uploads/2020/02/reactjs-2.png" />
+<img align="left" alt="NextJS" width="100px" src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs" />
+<img align="left" alt="NextJS" width="100px" src="https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-course-photos.s3.amazonaws.com/83/e258e0532611e5a5072321239ff4d4/jhep-coursera-course4.png?auto=format%2Ccompress&dpr=1" />
 
 
 
