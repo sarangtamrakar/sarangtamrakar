@@ -7,6 +7,10 @@
 
 ## Languages, Libraries and Frameworks used :
 <img align="left" alt="Python3" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+
+<img align="left" alt="Python3" width="45px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fmjhea0%2Fawesome-fastapi&psig=AOvVaw0xiCD86hUFfg8hsxITO9Nd&ust=1687201869314000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCKCw88vCzf8CFQAAAAAdAAAAABAD" />
+
+
 <img align="left" alt="GitHub" width="50px" src="https://images.ctfassets.net/23aumh6u8s0i/c04wENP3FnbevwdWzrePs/1e2739fa6d0aa5192cf89599e009da4e/nextjs" />
 <img align="left" alt="Flask" width="60px" src="https://flask.palletsprojects.com/en/1.1.x/_images/flask-logo.png" />
 <img align="left" alt="tf2" width="30px" src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4"/>
